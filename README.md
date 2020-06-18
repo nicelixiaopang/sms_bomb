@@ -1,1 +1,1 @@
-# sms_bomb
+init
