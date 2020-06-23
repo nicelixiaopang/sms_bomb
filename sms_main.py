@@ -188,6 +188,7 @@ def run(jiekou_list):
             default(jiekou, headers)
 
 
+
 if __name__ == '__main__':
     phone = input("输入手机号: ")
     target_list = replacePhone(phone)
